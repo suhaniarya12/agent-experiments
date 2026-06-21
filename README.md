@@ -4,29 +4,6 @@ A curated repository of marketing-focused AI agent experiments built on the Ring
 
 These agents were designed to make AI interactions feel timely, culturally relevant, and immediately useful, with the goal of increasing product curiosity, encouraging trials, and showing how different prompt strategies can shape user engagement.
 
-## Repository Structure
-
-```text
-agent-experiments/
-├── README.md
-├── agents/
-│   ├── ipl-agent/
-│   │   ├── README.md
-│   │   ├── prompt.md
-│   │   ├── user-flow.md
-│   │   ├── sample-conversations.md
-│   │   └── why-it-worked.md
-│   ├── mothers-day-agent/
-│   │   ├── README.md
-│   │   ├── prompt.md
-│   │   ├── landing-page-copy.md
-│   │   └── use-case.md
-│   └── personal-assistant-agent/
-│       ├── README.md
-│       ├── prompt.md
-│       └── workflow.md
-└── assets/
-```
 
 ## Included Showcases
 
